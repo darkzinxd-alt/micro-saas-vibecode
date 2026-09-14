@@ -1,3 +1,4 @@
+export const maxDuration = 60; // Permite que a função rode por até 60 segundos
 import { NextResponse } from 'next/server';
 import { GoogleGenAI } from '@google/genai';
 
